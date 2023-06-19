@@ -1,0 +1,17 @@
+
+
+
+.caixa{
+    display: flex;
+    align-items: center;
+    flex-flow: column;
+    margin-top: 15%;
+    background-color: white;
+    margin-left: 600px;
+    margin-right: 600px;
+    border-radius: 20px;
+    outline: solid;
+}
+
+
+
